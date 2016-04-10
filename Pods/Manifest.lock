@@ -1,0 +1,16 @@
+PODS:
+  - AKNumericFormatter (0.0.2)
+  - Firebase (2.5.1)
+  - UITextView+Placeholder (1.1.1)
+
+DEPENDENCIES:
+  - AKNumericFormatter
+  - Firebase (>= 2.5.1)
+  - UITextView+Placeholder
+
+SPEC CHECKSUMS:
+  AKNumericFormatter: de969ab13c504dca7aa119b558a934ccdbd1e376
+  Firebase: 3565ea88b830f28f2c77ecc524622bc71a20d085
+  UITextView+Placeholder: a6fc3e0378f3870036ec562a7537cbf6dbae4bf6
+
+COCOAPODS: 0.39.0
